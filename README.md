@@ -12,7 +12,8 @@ Augment=False
 USE_MINI_MASK=False
 ```
 5. 此皮革訓練使用的是Mask R-CNN網路結構，使用Trensfer Learning，而程式中的權重檔則來自[./mask_rcnn_coco.h5](https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5)。
-
+6. [訓練資料](https://tn00343140a.pixnet.net/blog/post/319064126-mask-rcnn%E4%BD%BF%E7%94%A8%E7%AF%87) 的準備說明
+7. [Mask_RCNN in Tensorflow2](https://github.com/ahmedfgad/Mask-RCNN-TF2)
 
 # Mask R-CNN for Object Detection and Segmentation
 
